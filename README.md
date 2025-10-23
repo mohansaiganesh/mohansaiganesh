@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Mohan Sai Ganesh Kanna</h1>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mohansaiganesh&label=Profile+Views&color=brightgreen&style=flat" alt="mohansaiganesh"/> </p>
 
 <h3 align="left">🌟 About Me:</h3>
   
